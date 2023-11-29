@@ -1,0 +1,1 @@
+# Демонстрационный код к статье ["Передача данных между слоями приложения"](https://ogorodov.su/transfer-data-between-layers-benchmark/)
